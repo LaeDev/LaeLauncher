@@ -9,7 +9,7 @@
 "servers": [
   {
     "id": "alcoholic-1.20.1",
-    "name": "AlcoholicClient",
+    "name": "간경화교류회 공식 클라이언트",
     "description": "간경화교류회 공식 클라이언트 ( 1.20.1 Forge)",
     "icon": "https://github.com/LaeDev/AlcoholicLauncher/blob/main/default.png?raw=true",
     "version": "1.0.0",
