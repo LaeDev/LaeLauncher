@@ -3040,6 +3040,7 @@ input:checked + .toggleSwitchSlider:before {
     position: relative;
     top: 25px;
     display: none;
+    left: 260px;
 }
  
 /* Left side of launch details container, displays percentage and a divider. */

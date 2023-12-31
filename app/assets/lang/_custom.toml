@@ -15,6 +15,6 @@ sourceGithubLink = "https://github.com/LaeDev/AlcoholicLauncher"
 supportLink = "https://github.com/LaeDev/AlcoholicLauncher/issues"
 
 [ejs.welcome]
-welcomeHeader = "WELCOME TO WESTEROSCRAFT"
-welcomeDescription = "Our mission is to recreate the universe imagined by author George RR Martin in his fantasy series, A Song of Ice and Fire.  Through the collaborative effort of thousands of community members, we have sought to create Westeros as accurately and precisely as possible within Minecraft.  The world we are creating is yours to explore.  Journey from Dorne to Castle Black, and if you aren’t afraid, beyond the Wall itself, but best not delay.  As the words of House Stark ominously warn: Winter is Coming."
-welcomeDescCTA = "You are just a few clicks away from Westeros."
+welcomeHeader = "간경화교류회 Launcher에 오신걸 환영합니다!"
+welcomeDescription = "간경화교류회 모드팩 / 런처는 테크, 모험, MMORPG의 요소를 결합한 마인크래프트 모드팩입니다. 이 모드팩은 다양한 차원, 던전, 보스, 아이템, 스킬, 퀘스트, 파티, 길드 등을 추가하여 마인크래프트를 조금 더 재미있게 즐길수 있게 도와줍니다. 자체 제작한 런처를 통해 간편하게 설치하고 업데이트할 수 있습니다."
+welcomeDescCTA = "간경화교류회 모드팩 / 런처를 통해 새로운 마인크래프트 세계를 만나보세요!"
