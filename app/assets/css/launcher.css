@@ -3005,6 +3005,7 @@ input:checked + .toggleSwitchSlider:before {
     position: relative;
     top: 25px;
     display: inline-flex;
+    left: 260px;
 }
 
 /* The launch button. */
